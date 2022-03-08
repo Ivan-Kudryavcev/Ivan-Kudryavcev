@@ -2,8 +2,8 @@
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🚀 FullStack JS Developer</h3>
 <div align="center">
-<p>Nice to meet you<p/>
-Interested in WebDev, travel and rock climbing 🧗 <br>
+<h4>Nice to meet you<h4/>
+<h5>Interested in WebDev, travel and rock climbing 🧗<h5/> <br>
 Contact: 
  <br/>
 📩IvanKudravtcev23@yandex.ru
