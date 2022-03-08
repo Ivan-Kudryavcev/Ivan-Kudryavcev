@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ivan
  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">FullStack JS Developer 🚀</h3>
+<h3 align="center">🚀 FullStack JS Developer</h3>
 <div align="center">
 <p>Nice to meet you!<p/>
 Interested in WebDev, travel and rock climbing 🧗 <br>
