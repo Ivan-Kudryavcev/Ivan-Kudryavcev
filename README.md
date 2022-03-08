@@ -1,6 +1,11 @@
 ### Hello there 👋
 ### I'm Ivan. Nice to meet you!
 ---
+<div>
+💁 FullStack JS Developer<br>
+🚀 Interested in WebDev, travel and rock climbing 🧗 <br>
+✉️ Contact: 89181113797
+</div>
 <!--
 **Ivan-Kudryavcev/Ivan-Kudryavcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
