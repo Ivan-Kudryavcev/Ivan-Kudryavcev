@@ -33,7 +33,7 @@ Contact:
   <span>**Other:** Git, GitHub, VS Code</span></br>
 </div>
 <h2>Let's get connected 🤝</h2>
-<div>
+<div align="center">
   <a href='https://telegram.me/ivan_kudryavtcev'><img src='/IMG/icons8-telegram-app-48.png'></img></a>
   <a href='https://instagram.com/ivan_yllo?r=nametag'><img src='/IMG/icons8-instagram-48.png'></img></a>
 </div>
