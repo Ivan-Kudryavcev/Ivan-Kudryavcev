@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Ivan
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br/>
-Nice to meet you!
-</h1>
-
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p>Nice to meet you!<p/>
 ---
 <div>
 💁 FullStack JS Developer<br>
