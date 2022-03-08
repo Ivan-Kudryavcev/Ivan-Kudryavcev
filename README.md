@@ -6,10 +6,10 @@
 Interested in WebDev, travel and rock climbing 🧗 <br>
 ✉️ Contact: 89181113797
 </div>
-<div align=center><img width='500' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_4245.JPG'></img></div>
+<div aalign="center"><img width='500' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_4245.JPG'></img></div>
 <br/>
-<h2>Technologies and Tools I use 🛠️</h2>
-<div>
+<div align="center">
+  <h2>Technologies and Tools I use 🛠️</h2>
   <a href='#'><img src='/IMG/icons8-html-5-48.png'></img></a>
   <a href='#'><img src='/IMG/icons8-css3-48.png'></img></a>
   <a href='#'><img src='/IMG/icons8-javascript-48.png'></img></a>
