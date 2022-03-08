@@ -30,6 +30,11 @@ Contact:
   <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
   <span>**Other:** Git, GitHub, VS Code</span></br>
 </div>
+<h2>Let's get connected 🤝</h2>
+<div>
+  <a href='#'><img src='/IMG/icons8-telegram-app-48.png'></img></a>
+  <a href='#'><img src='/IMG/icons8-instagram-48.png'></img></a>
+</div>
 <!--
 **Ivan-Kudryavcev/Ivan-Kudryavcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
