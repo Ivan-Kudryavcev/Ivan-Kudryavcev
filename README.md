@@ -6,9 +6,9 @@
 Interested in WebDev, travel and rock climbing 🧗 <br>
 Contact: 
  <br/>
-☎ 89181113797
- <br/>
 📩IvanKudravtcev23@yandex.ru
+ <br/>
+ ☎ 89181113797
 </div>
 <div align=center><img width='500' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_4245.JPG'></img></div>
 <br/>
