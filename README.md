@@ -6,6 +6,26 @@
 Interested in WebDev, travel and rock climbing 🧗 <br>
 ✉️ Contact: 89181113797
 </div>
+<h2>Technologies and Tools I use 🛠️</h2>
+<div>
+  <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-css3-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-javascript-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-react-native-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-redux-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-node-js-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-postgresql-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-git-48.png'></img></a>
+  <a href='#'><img src='/img/icons8-github-48.png'></img></a>
+  
+  </br>
+  </br>
+  
+  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span></br>
+  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
+  <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
+  <span>**Other:** Git, GitHub, VS Code</span></br>
+</div>
 <!--
 **Ivan-Kudryavcev/Ivan-Kudryavcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
