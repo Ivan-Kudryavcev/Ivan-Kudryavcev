@@ -6,10 +6,7 @@
 Interested in WebDev, travel and rock climbing 🧗 <br>
 ✉️ Contact: 89181113797
 </div>
-
-<div align="center" >![Image alt](https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG_4245.JPG)<div/>
-<div align=center><img width='100' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG_4245.JPG'></img></div>
-<br/>
+<div align=center><img width='400' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG_4245.JPG'></img></div>
 Her name is Frosya
 <br/>
 <h2>Technologies and Tools I use 🛠️</h2>
