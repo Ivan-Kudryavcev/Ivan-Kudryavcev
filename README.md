@@ -8,6 +8,7 @@ Interested in WebDev, travel and rock climbing 🧗 <br>
 </div>
 
 ![Image alt](https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG_4245.JPG)
+her name is Frosya
 <h2>Technologies and Tools I use 🛠️</h2>
 <div>
   <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
