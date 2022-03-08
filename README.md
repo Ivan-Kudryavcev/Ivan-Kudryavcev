@@ -3,7 +3,7 @@
 <h3 align="center">🚀 FullStack JS Developer</h3>
 <div align="center">
 <h4>Nice to meet you<h4/>
-<h5>Interested in WebDev, travel and rock climbing 🧗<h5/> <br>
+<h5>Interested in WebDev, travel and rock climbing 🧗<h5/>
 Contact: 
  <br/>
 📩IvanKudravtcev23@yandex.ru
