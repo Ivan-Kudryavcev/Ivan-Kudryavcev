@@ -4,7 +4,9 @@
 <div align="center">
 <p>Nice to meet you<p/>
 Interested in WebDev, travel and rock climbing 🧗 <br>
-📩 Contact: 89181113797
+Contact: 
+☎ 89181113797
+📩IvanKudravtcev23@yandex.ru
 </div>
 <div align=center><img width='500' src='https://github.com/Ivan-Kudryavcev/Ivan-Kudryavcev/blob/main/IMG/IMG_4245.JPG'></img></div>
 <br/>
