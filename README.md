@@ -6,7 +6,7 @@
 <h5>Interested in WebDev, travel and rock climbing 🧗<h5/>
 Contact: 
  <br/>
-<a href='IvanKudravtcev23@yandex.ru'>📩IvanKudravtcev23@yandex.ru<a/>
+<a href='https://mail.yandex.ru/compose?mailto=IvanKudravtcev23@yandex.ru'>📩IvanKudravtcev23@yandex.ru<a/>
  <br/>
  ☎ 89181113797
 </div>
