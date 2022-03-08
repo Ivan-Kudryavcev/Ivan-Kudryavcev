@@ -1,6 +1,6 @@
 
-### Hello there 👋
-### I'm Ivan. Nice to meet you!
+# Hi there, I'm Ivan![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+### Nice to meet you!
 ---
 <div>
 💁 FullStack JS Developer<br>
