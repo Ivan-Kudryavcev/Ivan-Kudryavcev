@@ -34,7 +34,7 @@ Contact:
 </div>
 <h2>Let's get connected 🤝</h2>
 <div>
-  <a href='t-do.ru/ivan_kudryavtcev'><img src='/IMG/icons8-telegram-app-48.png'></img></a>
+  <a target='blank' href='https://telegram.me/ivan_kudryavtcev'><img src='/IMG/icons8-telegram-app-48.png'></img></a>
   <a href='#'><img src='/IMG/icons8-instagram-48.png'></img></a>
 </div>
 <!--
