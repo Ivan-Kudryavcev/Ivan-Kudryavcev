@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Ivan
- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> <p>nice to meet you!<p/></h1>
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">FullStack JS Developer 🚀</h3>
-<div>
+<div align="center">
 <br>
+<p>Nice to meet you!<p/>
 Interested in WebDev, travel and rock climbing 🧗 <br>
 ✉️ Contact: 89181113797
 </div>
