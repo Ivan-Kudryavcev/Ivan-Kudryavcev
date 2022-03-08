@@ -6,6 +6,7 @@
 🚀 Interested in WebDev, travel and rock climbing 🧗 <br>
 ✉️ Contact: 89181113797
 </div>
+<div><iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p><div/>
 <!--
 **Ivan-Kudryavcev/Ivan-Kudryavcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
