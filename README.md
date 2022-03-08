@@ -34,8 +34,8 @@ Contact:
 </div>
 <h2 align="center">Let's get connected 🤝</h2>
 <div align="center">
-  <a target="_blank" href='https://telegram.me/ivan_kudryavtcev'><img src='/IMG/icons8-telegram-app-48.png'></img></a>
-  <a target="_blank" href='https://instagram.com/ivan_yllo?r=nametag'><img src='/IMG/icons8-instagram-48.png'></img></a>
+  <a href='https://telegram.me/ivan_kudryavtcev' target="_blank"><img src='/IMG/icons8-telegram-app-48.png'></img></a>
+  <a href='https://instagram.com/ivan_yllo?r=nametag' target="_blank"><img src='/IMG/icons8-instagram-48.png'></img></a>
 </div>
 <!--
 **Ivan-Kudryavcev/Ivan-Kudryavcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
