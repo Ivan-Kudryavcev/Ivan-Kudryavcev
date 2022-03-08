@@ -6,7 +6,7 @@
 Interested in WebDev, travel and rock climbing 🧗 <br>
 ✉️ Contact: 89181113797
 </div>
-<img src='https://github.com/jon/coolproject/raw/master/image/image.png'><img/>
+![Image alt](https://github.com/Ivan-Kudryavcev/README.md/raw/main/IMG_4245.JPG)
 <h2>Technologies and Tools I use 🛠️</h2>
 <div>
   <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
