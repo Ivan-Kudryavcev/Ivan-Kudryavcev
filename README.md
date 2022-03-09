@@ -27,7 +27,7 @@ Contact:
   </br>
   </br>
   
-  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span></br>
+  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Material UI, Bootstrap, Materialize</span></br>
   <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
   <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
   <span>**Other:** Git, GitHub, VS Code</span></br>
